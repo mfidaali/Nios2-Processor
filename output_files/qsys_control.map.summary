@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Mon Nov 26 17:42:11 2018
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : qsys_control
+Top-level Entity Name : qsys_control_top
+Family : MAX 10
+Total logic elements : 5,226
+    Total combinational functions : 4,231
+    Dedicated logic registers : 2,961
+Total registers : 2961
+Total pins : 14
+Total virtual pins : 0
+Total memory bits : 80,728
+Embedded Multiplier 9-bit elements : 6
+Total PLLs : 1
+UFM blocks : 1
+ADC blocks : 0
